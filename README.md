@@ -1,8 +1,12 @@
 # Easy-Robot-1
 Friendly Home Robot
 
-This rep contains,
+OBJECTIVE:
 
-1) conceptual design elements for the Robot (hardware, software, server - terminal, interfaces)
+This rep will contain,
 
-2) pseudo-code for behavior and actions of the Robot
+1) some conceptual design elements for the Easy-Robot (hardware, software, server - terminal, interfaces)
+
+2) Some pseudo-code for behavior and actions of the Robot
+
+3) some other ideas...
