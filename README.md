@@ -1,7 +1,7 @@
 # Easy-Robot-1
-Friendly Home Robot; 
+*Friendly Home Robot* 
 
-OBJECTIVE: This robot entertains your kids, guests, and your family. It learns new behaviors in time, and adapts to your home, like an alien friend.
+OBJECTIVE: This *adaptive robot* (Alf for masculin, or Betty for feminine) entertains your kids, guests, and your family. It learns new behaviors in time, and adapts to your home, like an alien friend.
 
 This rep will contain,
 
