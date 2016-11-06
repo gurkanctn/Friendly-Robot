@@ -1,4 +1,4 @@
-# Easy-Robot-1
+# Friendly-Robot
 *Friendly Home Robot* 
 
 OBJECTIVE: This *adaptive robot* (a.k.a. "Alf" until you name him/her some new name) entertains your kids, guests, and your family. It learns new behaviors in time, and adapts to your home, like an alien friend.
