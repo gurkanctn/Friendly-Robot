@@ -1,13 +1,21 @@
 This is the Top Level System Specifications for the Easy Robot System.
 
-ER System has these segments:
+EZ-Robot System has these segments:
 
-**PART-A**: The EZRobot : the social robot (hardware and software)
+**PART-A**: The EZ-Robot : the social robot (hardware and software)
 **PART-B**: The Web App : to configure the robot
-**PART-C**: The Server: that helps EzRobot to learn new stuff and share/backup memories/data/knowledge/habits.
+**PART-C**: The Server: that helps EZ-Robot to learn new stuff and share/backup memories/data/knowledge/habits.
 
-**The EzRobot**
+**The EZ-Robot**
 1 EzRobot has smooth movement capability
+   1. sensors
+   2. actuators
+   3. motors
+   4. power system
+   5. energy storage
+   6. processor
+   7. software
+   
 2 EzRobot has modes of operation:
 
  1. Standby  
