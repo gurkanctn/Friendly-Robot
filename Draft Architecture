@@ -2,6 +2,43 @@ Draft architecture ...
 
 ... has been prepared.
 
-But I learned that I need a desktop GIT version to upload the image file onto this GitHub repository.
 
-will have to find time to install the desktop version.
+Here it is:
+Friendly Robot
+    robot kit
+        HW
+            Body
+                Head
+                Body
+                CPU
+                GPU
+                Battery
+                Charging System
+            Motion System
+                Motors
+                Actuators
+            Input System
+                Safety Sensors
+                Nav Sensors
+            Output System
+                Screen
+            Human-Machine Interface
+                Audio
+                    Input
+                    Output
+                Visual
+                    Input
+                        Cameras
+                        Proximity Sensor
+                    Output
+                        Screen
+        SW
+            Self Management
+            User Interaction
+            Server Interaction
+                Submit Data
+                Poll data
+                Check Updates
+        Maintenance Kit and Accessories
+    User
+    Server
