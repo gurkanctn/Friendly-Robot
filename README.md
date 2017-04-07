@@ -1,4 +1,4 @@
- or# Friendly-Robot
+# Friendly-Robot
 *Friendly Home Robot* 
 
 OBJECTIVE: This *adaptive robot* (a.k.a. "Alf" or "Alfa" or "Alpha" until you name him/her some new name) entertains your kids, guests, and your family. It learns new behaviors in time, and adapts to your home, like an alien friend. (Remember Alf? https://en.wikipedia.org/wiki/ALF_(TV_series))
