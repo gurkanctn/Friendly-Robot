@@ -17,9 +17,11 @@ Friendly Robot
             Motion System
                 Motors
                 Actuators
-            Input System
+            Sensors
                 Safety Sensors
+                    Ultrasound distance
                 Nav Sensors
+                    Camera (RGBD)
             Output System
                 Screen
             Human-Machine Interface
@@ -28,8 +30,8 @@ Friendly Robot
                     Output
                 Visual
                     Input
-                        Cameras
-                        Proximity Sensor
+                        Cameras (RGBD, skeleton data)
+                        Proximity Sensors
                     Output
                         Screen
         SW
