@@ -5,7 +5,7 @@ OBJECTIVE: This *adaptive robot* (a.k.a. "Alf" or "Alfa" or "Alpha" until you na
 
 This rep will contain,
 
-1) some [conceptual design elements](https://github.com/gurkanctn/Easy-Robot-1/wiki/0-TLRD) for the Easy-Robot (hardware, software, server - terminal, interfaces)
+1) some [conceptual design elements](https://github.com/gurkanctn/Friendly-Robot/wiki/0-Top-Level-Specs) for the Easy-Robot (hardware, software, server - terminal, interfaces)
 
 ---: See **wiki** pages (the link is on the right) for a hierarchical list of requirements.
 
