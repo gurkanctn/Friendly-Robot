@@ -2,7 +2,7 @@ This is the Top Level System Specifications for the Easy Robot System.
 
 EZ-Robot System has these segments:
 
-**PART-A**: The EZ-Robot : the social robot (hardware and software)
+**PART-A**: The EZ-Robot : the social robot (hardware and software), also named ALF.
 **PART-B**: The Web App : to configure the robot
 **PART-C**: The Server: that helps EZ-Robot to learn new stuff and share/backup memories/data/knowledge/habits.
 
