@@ -1,9 +1,9 @@
 This is the Top Level System Specifications for the Easy Robot System.
 
-EZ-Robot System has these segments:
+Friendly Robot (or EZ-Robot or Alf) System has these segments:
 
-**PART-A**: The EZ-Robot : the social robot (hardware and software), also named ALF.
-**PART-B**: The Web App : to configure the robot
+**PART-A**: The Robot : the social robot (hardware and software), also named ALF.
+**PART-B**: The (Web) App : helps configure and upgrade the robot
 **PART-C**: The Server: that helps EZ-Robot to learn new stuff and share/backup memories/data/knowledge/habits.
 
 **The EZ-Robot**
@@ -15,16 +15,39 @@ EZ-Robot System has these segments:
    5. energy storage
    6. processor
    7. software
+   8. safety (not capable of harming people with its hardware)
    
-2 EzRobot has modes of operation:
+2 EzRobot has the following modes of operation:
 
  1. Standby  
- 2. Remote controlled  
- 3. Autonomous  
- 4. Education   
- 5. Demo & entertainment  
+ 2. Remote controlled  (active)
+ 3. Autonomous - Interactive  (active)
+ 4. Education (teacher / study companion mode)
+ 5. Demo & entertainment (active)
+
 3 EzRobot has 1 hour endurance in any active mode; target 2 hours.
 
-4 EzRobot has 8 hours of endurance in Standby mode.
+4 EzRobot has 8 hours of endurance in Standby mode,
 
-5 EzRobot informs the user of its status, and submits signals (audio-visual) for important events.
+5. EzRobot has unlimited uptime when externally powered (through cable). 
+
+6. EzRobot interacts with the user using audio, visual and (if available) motion capabilities.
+
+7. EzRobot logs data for important events.
+
+8. EzRobot logs user input and all interactions on the local cloud server (if available).
+
+9. EzRobot (if opted in), logs user input and interactions on the cloud server (when Internet Connection is available).
+
+**The App**
+
+1 The App allows user to interact with the EzRobot.
+2 The App allows user to select modes of operation
+3 The App allows monitoring EzRobot status and events.
+4 The app allows configuring the EzRobot (customizing, upgrading, troubleshooting)
+5 The App allows viewing and editing EzRobot System settings
+6 The App allows Selecting certain "training sessions" to be submitted to the Web Servers
+7 The App allows RC mode of operation for sub-commands. (Might need input peripherals like GamePad)
+8. the app allows subcommands (macros) to be defined (e.g. motion, sound, etc.)
+
+...
